@@ -62,7 +62,7 @@
     "@supabase/supabase-js": "latest",
     "framer-motion": "latest",
     "next-pwa": "latest",
-    "@supabase/auth-helpers-nextjs": "latest",
+    "@supabase/ssr": "latest",
     "@supabase/auth-ui-react": "latest",
     "@supabase/auth-ui-shared": "latest"
   },
